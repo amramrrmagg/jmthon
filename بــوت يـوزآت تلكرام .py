@@ -5,7 +5,7 @@ import requests
 import random
 
 
-token = '6883060536:AAEI02peYqeSY93kxHk0Re4X0dUD_xjz94E'
+token = '6883060536:6457245632:AAG79oOs48o9vCvYIjVigwEfXMIXMOSP4i8'
 #هنا توكنك داخل دبل كتيشن
 
 bot = telebot.TeleBot(token)
